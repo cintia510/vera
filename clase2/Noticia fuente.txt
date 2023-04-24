@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE> NOTICIA CAMPO  </TITLE>
+</HEAD>
+<BODY>
+<center> 
+<img src="logo.jfif" alt="logo infobae" width="200" align="center" > 
+</center>
+
+<p>Campo > </p>
+
+<H1>Carne y leche “sostenibles”: ganaderos de América defendieron sus métodos de producción en el debate sobre el calentamiento global
+</H1>
+<main>
+<article>
+<H2>Reunidos en Buenos Aires, expertos de Argentina, Bolivia, Brasil, Chile, Colombia, Paraguay, Uruguay, México, República Dominicana y EEUU, 
+    elaboraron un documento en el que explican cómo contribuyen a reducir la emisión de gases de efecto invernadero
+</H2>
+<center> 
+<img src="VACAS.JFIF" alt="IMAGEN DE VACAS" width="600" align="center" > 
+<figcaption>Buenos Aires fue sede esta semana de un importante encuentro que reunió al sector ganadero de toda América</figcaption>
+</center>
+<br> <br> 
+<p>
+Esta semana, profesionales y referentes del sector ganadero de toda América participaron del <strong> “Seminario Regional de Producción Ganadera Sostenible” </strong>. El mismo se realizó durante dos días en la sede de la <strong>Sociedad Rural Argentina (SRA) </strong>, donde emitieron un documento con “Principios y Declaraciones”, donde se propone “fortalecer la imagen del sector ganadero como parte de la solución al calentamiento global y a la reducción de los gases de efecto invernadero”.
+
+Al respecto, se volvió a ratificar que la producción de leche y carne es un modo de enfrentar el calentamiento global y el cambio climático, y no es el origen del problema como sostienen muchas organizaciones ambientalistas y hasta veganas. El evento fue organizado por los integrantes de la Federación de Asociaciones Rurales del Mercosur (FARM), la Federación Panamericana de Lechería (FEPALE), el Consejo de Exportadores Lácteos de Estados Unidos (USDEC), y la Federación de Productores de Leche de Estados Unidos (NMPF). Durante el mismo se analizaron y debatieron cómo fortalecer la imagen del sector ganadero como parte de la solución al calentamiento global y a la reducción de los gases de efecto invernadero.
+
+
+Asistieron productores, dirigentes y expertos mundiales de Argentina, Bolivia, Brasil, Chile, Colombia, Paraguay, Uruguay, México, República Dominicana y Estados Unidos. Según Eduardo Schwerter, presidente de FEPALE, “la ganadería es un sector sustentable, estratégico e indispensable para la sociedad, comprometida con la producción de alimentos insustituibles para la nutrición humana, aportando de forma decisiva para la seguridad alimentaria”; y agregó que “el sector lechero y ganadero de las Américas ofrece soluciones a la mitigación de gases de efecto invernadero”.
+
+</p>
+</article>
+</main>
+
+</HTML>
